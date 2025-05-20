@@ -36,7 +36,7 @@ def main():
     gameLoop(screen, bg, p1, tiles, bg_width, t1)
   #FOR MOVING METEORITES
 
-  #we also (by we i mean rauan but this was written by altynay) mixed update and clock.fps functions koroche swap
+  #also mixed update and clock.fps functions, swap
   clock.tick(FPS)
   pygame.quit()
 
